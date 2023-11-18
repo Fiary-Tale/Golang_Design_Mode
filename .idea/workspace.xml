@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc4370b6-a8de-4342-841f-0295165ef3d3" name="更改" comment="add">
+      <change afterPath="$PROJECT_DIR$/../Asustor_ADM_extups.cgi_RCE/.idea/Asustor_ADM_extups.cgi_RCE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asustor_ADM_extups.cgi_RCE/Exec/Asutor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asustor_ADM_extups.cgi_RCE/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asustor_ADM_extups.cgi_RCE/Flag/Flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asustor_ADM_extups.cgi_RCE/asutor_rce_node.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asustor_ADM_extups.cgi_RCE/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asustor_ADM_extups.cgi_RCE/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asustor_ADM_extups.cgi_RCE/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asustor_ADM_extups.cgi_RCE/os_system/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Asustor_ADM_extups.cgi_RCE/os_system/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-62761849/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-62761849/.idea/CNNVD-2023-62761849.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-62761849/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-62761849/Exec/CNNVD-2023-62761849.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-62761849/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-62761849/Flag/flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-62761849/Mark/CNNVD-2023-62761849.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-62761849/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-62761849/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-62761849/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-67052340/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-67052340/.idea/CNNVD-2023-67052340.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-67052340/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-67052340/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-67052340/Exec/CNNVD-2023-67052340.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-67052340/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-67052340/Flag/flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-67052340/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-67052340/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-67052340/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/.idea/CNNVD-2023-87939574.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/Command/Flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/Plugins/CNNVD-2023-87939574.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/Plugins/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/Plugins/conf.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/utils/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/utils/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-87939574/utils/writefile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-90456029/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-90456029/.idea/CNNVD-2023-90456029.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-90456029/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-90456029/Exec/CNNVD-2023-90456029.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-90456029/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-90456029/Flag/flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-90456029/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-90456029/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CNNVD-2023-90456029/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/.idea/CVE-2020-15415.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/Exec/CVE-2020-15415.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/Flag/Flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/os_system/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2020-15415/os_system/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-29303/.idea/CVE-2022-29303.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-29303/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-29303/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-29303/mark/CVE-2022-29303_linux_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-29303/mark/CVE-2022-29303_linux_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-29303/mark/CVE-2022-29303_mac_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-29303/mark/CVE-2022-29303_mac_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-29303/mark/CVE-2022-29303_win_amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-29303/mark/target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/.idea/CVE-2022-3236.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/Exec/CVE-2022-3236.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/Flag/Flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/mark/CVE-2022-3236_linux_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/mark/CVE-2022-3236_linux_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/mark/CVE-2022-3236_mac_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/mark/CVE-2022-3236_mac_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/mark/CVE-2022-3236_win_amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/mark/target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/os_system/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/os_system/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-3236/os_system/writeFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/.idea/CVE-2022-36553.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/Exec/CVE-2022-36553.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/Flag/flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/dic/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/dic/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36553/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/.idea/CVE-2022-36559.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/CVE-2022-36559_target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/Exec/CVE-2022-36559.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/Flag/Flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/os_system/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/os_system/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36559/os_system/writeFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/.idea/CVE-2022-36560.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/mark/CVE-2022-36560_linux_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/mark/CVE-2022-36560_linux_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/mark/CVE-2022-36560_mac_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/mark/CVE-2022-36560_mac_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/mark/CVE-2022-36560_win_amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/os_system/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/os_system/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2022-36560/os_system/writeFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-23333/mark/CVE-2023-23333_linux_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-23333/mark/CVE-2023-23333_linux_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-23333/mark/CVE-2023-23333_mac_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-23333/mark/CVE-2023-23333_mac_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-23333/mark/CVE-2023-23333_win_amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-23333/mark/target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/.idea/CVE-2023-28343.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/Exec/CVE-2023-28343.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/Flag/Flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/mark/CVE-2023-28343_linux_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/mark/CVE-2023-28343_linux_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/mark/CVE-2023-28343_mac_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/mark/CVE-2023-28343_mac_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/mark/CVE-2023-28343_win_amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/mark/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/mark/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/os_system/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/os_system/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-28343/os_system/writeFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/Exec/CVE-2023-34960.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/Flag/Flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/os_system/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/os_system/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/os_system/writeFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CVE-2023-34960/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0806-1433/.idea/FVD-2023-0806-1433.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0806-1433/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0806-1433/mark/FVD-2023-0806-1433_linux_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0806-1433/mark/FVD-2023-0806-1433_linux_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0806-1433/mark/FVD-2023-0806-1433_mac_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0806-1433/mark/FVD-2023-0806-1433_mac_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0806-1433/mark/FVD-2023-0806-1433_win_amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0806-1433/mark/target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/.idea/FVD-2023-0810-1529.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/Exec/FVD-2023-0810-1529.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/Flag/Flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/mark/FVD_2023_0810_1529_linux_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/mark/FVD_2023_0810_1529_linux_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/mark/FVD_2023_0810_1529_mac_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/mark/FVD_2023_0810_1529_mac_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/mark/FVD_2023_0810_1529_win_amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/mark/target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/os_system/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/os_system/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0810-1529/os_system/writeFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/.idea/FVD-2023-0811-1622.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/Exec/FVD-2023-0811-1622.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/Flag/Flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/mark/FVD_2023_0811_1622_linux_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/mark/FVD_2023_0811_1622_linux_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/mark/FVD_2023_0811_1622_mac_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/mark/FVD_2023_0811_1622_mac_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/mark/FVD_2023_0811_1622_win_amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/os_system/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/os_system/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0811-1622/os_system/writeFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/.idea/FVD-2023-0813-0221.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/mark/FVD_2023_0813_0221_linux_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/mark/FVD_2023_0813_0221_mac_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/mark/FVD_2023_0813_0221_mac_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/mark/FVD_2023_0813_0221_win_amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/os_system/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/os_system/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FVD-2023-0813-0221/os_system/writeFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/.idea/HVD-2023-0809-0001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/Exec/HVD-2023-0809-0001.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/Exec/Scan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/Flag/Flag.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/os_system/limit.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/os_system/readfile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0001/os_system/writeFile.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0002/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0002/.idea/HVD-2023-0809-0002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0002/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0002/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0002/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0002/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0002/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0003/.idea/HVD-2023-0809-0003.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0003/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0003/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0003/mark/HVD-2023-0809-0003_linux_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0003/mark/HVD-2023-0809-0003_linux_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0003/mark/HVD-2023-0809-0003_mac_amd64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0003/mark/HVD-2023-0809-0003_mac_arm64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0003/mark/HVD-2023-0809-0003_win_amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HVD-2023-0809-0003/mark/target.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Router_attack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b64upload/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b64upload/.idea/b64upload.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b64upload/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b64upload/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b64upload/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b64upload/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b64upload/myconfigset.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xray-core" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://D:/Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Fiary-Tale"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="40d4117f-924b-42f8-9c84-33bea3fd389e" />
+        <option name="url" value="https://github.com/Fiary-Tale/Golang_design_mode" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2TWvMLdhvTwTIRgZzP9meHkppx9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Go/GO_EXP/CNNVD-2023-87939574&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Go\GO_EXP\test\02\1" />
+      <recent name="E:\Go\GO_EXP\test\01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 构建.go build 07-观察者模式-武林群侠版.go">
+    <configuration name="go build 03-练习题.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/05/03-练习题.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 04-策略模式.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/05/04-策略模式.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 05-策略模式练习题.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/05/05-策略模式练习题.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 07-观察者模式-武林群侠版.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="test" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/05/07-观察者模式-武林群侠版.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test/05" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="test/05" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/05/06-观察者模式.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go 构建.go build 07-观察者模式-武林群侠版.go" />
+        <item itemvalue="Go 构建.go build test/05" />
+        <item itemvalue="Go 构建.go build 05-策略模式练习题.go" />
+        <item itemvalue="Go 构建.go build 04-策略模式.go" />
+        <item itemvalue="Go 构建.go build 03-练习题.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
